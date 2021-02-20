@@ -61,6 +61,9 @@ clients = {
 	'frame-callback': {
 		'src': 'frame-callback.c',
 	},
+	'popup': {
+		'src': 'popup.c',
+	},
 	'resize-loop': {
 		'src': 'resize-loop.c',
 	},
